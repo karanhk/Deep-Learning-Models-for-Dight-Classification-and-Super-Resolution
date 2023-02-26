@@ -1,0 +1,2 @@
+It contains three files. The LeNet5.py is the python implementation of LeNet5 model trained on MNIST dataset. The LeNet.h5 is the trained model, you can
+use it for handwritten digit classification. The Driver_LeNet5.py is the driver code for the model.

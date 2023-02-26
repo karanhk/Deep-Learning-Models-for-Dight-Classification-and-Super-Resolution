@@ -1,0 +1,2 @@
+It has two files. The Srcnn_Implementation.txt is the python implementation of SRCNN network on MNIST dataset. The Srcnn_mnist.h5 is the trained model on
+MNIST for super resolution.
